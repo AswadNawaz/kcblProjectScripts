@@ -1,0 +1,5 @@
+product_number,roll_over,customer_number,title,duration,amount,comment,deposit_account,document_comments,document_upload_image
+"9","1","0106065","MIS 1Y [No Instruction]","1","100000","C","0133912","DC","E:\Office Work\Images\sampleFile.jpeg"
+"9","2","0106065","MIS 1Y [Principle]","1","150000","C","0133911","DC","E:\Office Work\Images\sampleFile.jpeg"
+"9","3","0106065","MIS 1Y [Principle and Profit]","1","200000","C","0133909","DC","E:\Office Work\Images\sampleFile.jpeg"
+"9","4","0106065","MIS 1Y [CoM]","1","250000","C","0133910","DC","E:\Office Work\Images\sampleFile.jpeg"
