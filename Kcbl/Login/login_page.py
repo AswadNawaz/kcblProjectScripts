@@ -5,7 +5,7 @@ from Kcbl.Base.BasePage import BaseClass
 class LoginPage(BaseClass):
     def __init__(self):
         self.driver = self.browser_driver()
-        self.organization_locator = By.ID, "clientiD"
+        self.organization_locator = By.ID, "clientid"
         self.username_locator = By.ID, "username"
         self.password_locator = By.ID, "password"
         self.login_locator = By.XPATH, "//form/div[5]/div/button"
