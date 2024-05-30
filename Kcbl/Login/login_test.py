@@ -8,7 +8,7 @@ class TestLogin(BaseClass):
         url = "https://kcbltest.ciihive.com"
         organization_code = "0003"
         username = "aswad"
-        password = "Aswad@123"
+        password = "Aswad@1234"
 
         result = login.login_with_valid_credentials(url, organization_code, username, password)
         # time.sleep(3)
